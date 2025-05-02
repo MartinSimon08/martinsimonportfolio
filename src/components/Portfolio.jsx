@@ -53,7 +53,7 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      src: amazon,
+      src: meta,
       demolink: "https://metafrontend.vercel.app/",
       codelink: "https://github.com/MartinSimon08/metafrontend",
       titulo: "Meta Front End Developer",
