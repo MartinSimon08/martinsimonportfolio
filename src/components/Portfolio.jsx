@@ -12,7 +12,6 @@ import food from "../assets/portfolio/food.png"
 import notes from "../assets/portfolio/notes.png"
 import twitter from "../assets/portfolio/twitter.png"
 import worlde from "../assets/portfolio/worlde.png"
-import amazon from "../assets/portfolio/amazon.png"
 import meta from "../assets/portfolio/meta.png"
 const Portfolio = () => {
   const portfolios = [
