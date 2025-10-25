@@ -16,8 +16,7 @@ const About = () => {
         <p className="text-xl mt-20">
           
                                   
-I am a developer and Systems Engineering student, interested in application development and web design work, where I can apply my skills to bring innovative ideas and exceptional visual solutions to life. With extensive experience creating intuitive and engaging user interfaces, my focus is on ensuring that every project I tackle delivers an exceptional experience to the end user.
-        </p>
+I am a Full Stack Developer and Systems Engineering student with a strong interest in building functional, scalable, and user-friendly applications. I enjoy working on both the frontend and backend, turning ideas into reliable solutions through clean code and thoughtful design.      </p>
 
         <br />
 
